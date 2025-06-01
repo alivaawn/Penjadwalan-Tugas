@@ -16,11 +16,9 @@
 ![image](https://github.com/user-attachments/assets/cf7b417c-c2fe-4682-aa0b-63cc67010eb8)
 
 👤 **Author**
-Nama: Aliva Wahyu Ningrum
-NIM: 23050974019
-Kelas: 2023 PTI A
-Institusi: Universitas Negeri Surabaya
-GitHub: @alivaawn 
-Email:
-- alivawahyu2005@gmail.com
-- aliva.23019@mhs.unesa.ac.id
+- Nama: Aliva Wahyu Ningrum
+- NIM: 23050974019
+- Kelas: 2023 PTI A
+- Institusi: Universitas Negeri Surabaya
+- GitHub: @alivaawn 
+- Email: alivawahyu2005@gmail.com aliva.23019@mhs.unesa.ac.id
